@@ -67,3 +67,8 @@ This project provides a solid foundation in cloud infrastructure and CI/CD autom
 It reflects a real-world workflow where infrastructure, deployment, and automation are combined into a single, maintainable system.
 
 The same approach can be extended to backend services, APIs, or containerized applications in future projects.
+
+---
+
+## Roadmap.sh project URL:
+https://roadmap.sh/projects/ec2-instance
